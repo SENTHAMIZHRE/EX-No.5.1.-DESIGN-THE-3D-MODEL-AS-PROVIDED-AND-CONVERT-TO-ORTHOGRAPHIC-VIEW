@@ -1,4 +1,4 @@
-# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+[# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:
 
 ## AIM: 
@@ -42,3 +42,4 @@ Switch to drawing mode from design mode
 Thus, the given 3D model is converted into orthographic view.
 
 
+](https://github.com/SENTHAMIZHRE/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/blob/main/README.md)
